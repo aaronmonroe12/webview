@@ -1,8 +1,8 @@
 {
 
-  "name": "solutia",
+  "name": "capd",
 
-  "short_name": "solutia",
+  "short_name": "capd",
 
   "start_url": "https://capd.404notfound.my.id/",
 
@@ -12,7 +12,7 @@
 
   "theme_color": "#243b99",
 
-  "description": "Web Development",
+  "description": "continuous ambulatory peritoneal dialysis",
 
   "icons": [{
 
