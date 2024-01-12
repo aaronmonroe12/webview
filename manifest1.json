@@ -1,10 +1,10 @@
 {
 
-  "name": "capd",
+  "name": "capdq",
 
-  "short_name": "capd",
+  "short_name": "capdq",
 
-  "start_url": "https://capd.404notfound.my.id/",
+  "start_url": "https://capdq.syamsulbakhri.com/",
 
   "display": "standalone",
 
@@ -16,7 +16,7 @@
 
   "icons": [{
 
-    "src": "https://capd.404notfound.my.id/assets/img/apk_capd.png",
+    "src": "https://capdq.syamsulbakhri.com/assets/img/apk_capd.png",
 
     "sizes": "48x48",
 
@@ -24,7 +24,7 @@
 
   }, {
 
-    "src": "https://capd.404notfound.my.id/assets/img/apk_capd.png",
+    "src": "capdq.syamsulbakhri.com/assets/img/apk_capd.png",
 
     "sizes": "72x72",
 
@@ -32,7 +32,7 @@
 
   }, {
 
-    "src": "https://capd.404notfound.my.id/assets/img/apk_capd.png",
+    "src": "capdq.syamsulbakhri.com/assets/img/apk_capd.png",
 
     "sizes": "96x96",
 
@@ -40,7 +40,7 @@
 
   }, {
 
-    "src": "https://capd.404notfound.my.id/assets/img/apk_capd.png",
+    "src": "capdq.syamsulbakhri.com/assets/img/apk_capd.png",
 
     "sizes": "144x144",
 
@@ -48,7 +48,7 @@
 
   }, {
 
-    "src": "https://capd.404notfound.my.id/assets/img/apk_capd.png",
+    "src": "capdq.syamsulbakhri.com/assets/img/apk_capd.png",
 
     "sizes": "168x168",
 
@@ -56,7 +56,7 @@
 
   }, {
 
-    "src": "https://capd.404notfound.my.id/assets/img/apk_capd.png",
+    "src": "capdq.syamsulbakhri.com/assets/img/apk_capd.png",
 
     "sizes": "192x192",
 
@@ -64,7 +64,7 @@
 
   }, {
 
-    "src": "https://capd.404notfound.my.id/assets/img/apk_capd.png",
+    "src": "capdq.syamsulbakhri.com/assets/img/apk_capd.png",
 
     "sizes": "512x512",
 
